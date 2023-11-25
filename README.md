@@ -13,9 +13,13 @@
 - DMV's
 - Query Store
 - Traces
-- 
+- Extended Events
 
 ##### Security
+- TDE
+- Logins
+- Database Accounts
+- 
 
 ##### Azure Networking
 
@@ -34,6 +38,12 @@
 ##### Cost Managemnet
 
 ##### Licensing
+
+##### Sample Databases
+
+##### Load testing
+
+
 
 ##### Alerts
 
