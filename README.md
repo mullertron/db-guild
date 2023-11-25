@@ -26,8 +26,10 @@
 ##### High Availability
 - Always on Availability Groups
 - Clustering
+- Failover Groups
 
 ##### Disaster Recovery
+- Failover Groups
 
 ##### Cost Managemnet
 
