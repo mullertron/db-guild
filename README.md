@@ -43,8 +43,18 @@
 
 ##### Load testing
 
-
+##### Monitoring
 
 ##### Alerts
 
+##### Low Level Designs
 
+##### SQLIaaS Extension
+
+##### Copying Data
+
+##### Migrtating into Cloud
+
+##### Migrating between Databases
+
+### Links to Videos
